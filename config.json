@@ -1,0 +1,196 @@
+{
+    "main_config": {
+        "token": "",
+        "prefix": "==",
+        "botstatus": "The New MultiBot! Ask in H4r1eyDevelopment for More Questions",
+        "presence": "WATCHING",
+        "guild_id": "801157082018742303",
+        "welcome_channel": "850042768222978068",
+        "leave_channel": "850042768222978068",
+        "moderator_role": "850041366230859786",
+        "member_counter_vc_id": "851467468216074281"
+    },
+
+    "custom_config": {
+        "copyright": "MultiBot V.2!",
+        "server_icon": "https://images-ext-1.discordapp.net/external/PsM6TnAv5JKQpNMdC6yo-dRFgWHkBS6yL6CIwvTKN4c/https/media.discordapp.net/attachments/850042424423350272/850082023611695124/h44444.png",
+        "server_name": "H4r1eyDevelopment",
+        "give_customer_color": "#ff0000",
+        "remove_customer_color": "#ff0000",
+        "ping_color": "#ff0000",
+        "sayem_color": "#ff0000",
+        "intro_color": "#ff0000",
+        "outro_color": "#ff0000",
+        "ticket_color": "#ff0000", 
+        "do_not_type_color": "#ff0000",
+        "info_color": "#ff0000",
+        "suggestion_color": "#ff0000",
+        "suggestion_notification": "Thanks For The Suggestion!",
+        "accept_color": "#ff0000",
+        "denied_embed_color": "#ff0000",
+        "warn_color": "#ff0000",
+        "kick_color": "#ff0000",
+        "ban_color": "#ff0000",
+        "bug_report_color": "#ff0000",
+        "commend_color": "#ff0000",
+        "website_link": "https://discord.com/#",
+        "website_color": "#ff0000",
+        "ban_appeal_color": "#ff0000",
+        "appeal_question_1": "testing number 1",
+        "appeal_question_2": "testing number 2",
+        "appeal_question_3": "testing number 3",
+        "appeal_question_4": "testing number 4",
+        "appeal_question_5": "testing number 5",
+        "mute_color": "#ff0000",
+        "help_color": "#ff0000",
+        "welcome_color": "#ff0000",
+        "leave_color": "#ff0000",
+        "poll_color": "#ff0000",
+        "store_color": "#ff0000",
+        "team_members": [
+            "Harley",
+            "Hani",
+            "Tigz",
+            "Etc"
+        ],
+        "team_colour": "#ff0000",
+        "team_app_link": "https://orrp.xyz/"
+    },
+
+    "verify_config": {
+        "unverified_role": "Unverified",
+        "unverified_role_id": "855429900617121843",
+        "verified_role": "850040892353413150",
+        "verify_title": "You have verified and recieved your roles, You can start chatting!",
+        "verify_color": "#ff0000",
+        "delete_command": "true",
+        "verifications_channel": "850042972586115102"
+    },
+
+
+    "important_config": {
+        "customer_role": "844553162886873148",
+        "give_customer": "844552984084217866",
+        "remove_customer": "844552984084217866",
+        "suggestion_channel": "844955087934717953",
+        "allowed_too_accept": "844552984084217866",
+        "allowed_too_deny": "844552984084217866",
+        "moderator_role": "850040635393179649",
+        "commend_perms": "844552984084217866",
+        "allowed_to_mute": "850041366230859786",
+        "normal_role": "Member",
+        "muted_role": "Muted"
+        
+    },
+
+    "ticket_config": {
+        "support_role": "852315335176618024",
+        "ticket_catergory": "850062980272226356",
+        "perms": "MANAGE_NICKNAMES",
+        "open_message": "Ticket Opened!",
+        "closing_color": "#ff0000",
+        "rename_color": "#ff0000",
+        "panel_color": "#ff0000",
+        "ticket_message": "Hello! What can our support team assist with today?",
+        "ticket_message_color": "#ff0000",
+        "transcript_channel": "850046412636553219",
+        "transcript_color": "#ff0000",
+        "ticket_message_small": "A member of the support team will be here to assist you shortly!"
+    },
+
+    "info_config": {
+        "paypal": "https://paypal.com/#",
+        "instagram": "https://instagram.com/#",
+        "youtube": "https://youtube.com/#",
+        "twitch": "https://twitch.com/#",
+        "tiktok": "https://tiktok.com/#",
+        "discord": "H4r1ey#6969",
+        "name": "H4r1ey"
+    },
+
+    "module_control": {
+        "give_customer": "true",
+        "remove_customer": "true",
+        "intro_command": "true",
+        "outro_command": "true",
+        "tickets": "true",
+        "info": "true",
+        "suggestions": "true",
+        "warning": "true",
+        "warning_logging": "true",
+        "warning_logging_dm": "false",
+        "kick": "true",
+        "kick_logging": "true",
+        "ban": "true",
+        "ban_logging": "true",
+        "ban_dm": "false",
+        "bug_reporting": "false",
+        "intro_logging_module": "true",
+        "commend": "true",
+        "commend_logging_m": "true",
+        "website": "true",
+        "ban_appeal": "true",
+        "mute": "true",
+        "welcome_messages": "true",
+        "leave_messages": "true",
+        "verification": "true",
+        "member_counting": "false",
+        "products_command": "true",
+        "team_command": "true",
+        "fivem_commands": "true"
+    },
+
+    "fivem_config": {
+        "server_ip": "???.???.???.??",
+        "server_port": "30120",
+        "server_name": "H4r1ey's Test Server!",
+        "server_main_colour": "#ff0000",
+        "server_owners": [
+            "Hani.",
+            "H4r1ey."
+        ]
+    },
+
+    "store_information": {
+        "products_list": [
+            "MultiBot | £10",
+            "Tickets Bot | £5",
+            "Applications Bot | £5",
+            "Brand New Lamborghini | £200,000"
+        ],
+        "active_discount": "true",
+        "discount_amount": "5%",
+        "items_discounted": [
+            "Lamborghini",
+            "MultiBot"
+        ],
+        "out_of_stock_tracking": "true",
+        "out_of_stock_items": [
+            "Tickets Bot",
+            "Applications Bot!"
+        ],
+        "banned_users": [
+            "659742300364341254"
+        ],
+        "product_check_command": "true",
+        "product_versions": [
+            "MultiBot | V.3",
+            "Tickets Bot | V.1",
+            "Applications Bot | V.2",
+            "Brand New Lamborghini | I didn't make this shit."
+        ],
+        "customer_role": "850040635393179649"
+    },
+
+    "logging_channels": {
+        "warning_logging_channel": "844957966457372703",
+        "kick_logging_channel": "844957940233928774",
+        "ban_logging_channel": "850046351236005908",
+        "bug_report_channel": "844957940233928774",
+        "disabled_important_config": "844957966457372703",
+        "intro_logging": "844957415329497118",
+        "disabled_commend_logging": "844957966457372703",
+        "commend_log_channel": "844957966457372703",
+        "muted_logger": "844957966457372703"
+    }
+}
