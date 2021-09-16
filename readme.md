@@ -1,5 +1,3 @@
-**WANT THE BOT SETUP FOR YOU? I WILL SETUP UP THE BOT FOR A SMALL PRICE, TO YOUR STANDARD!**
-
 Hello and thankyou for purchasing the MultiBot, this is one of the best selling items H4r1eyDevelopment has up for sale!
 Here is some information on how to get you're bot up and running!
 
